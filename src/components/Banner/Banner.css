@@ -1,0 +1,24 @@
+.banner-area {
+  background-color: #122047;
+  padding: 61px 0px;
+}
+.banner-area img {
+  width: 100%;
+}
+
+.banner-info {
+  margin-top: 70px;
+}
+.banner-info h6 {
+  color: #3cacb0;
+  font-weight: 300;
+}
+.banner-info h2 {
+  color: #fff;
+  font-family: "Montserrat";
+  font-weight: 900;
+  font-size: 75px;
+}
+.banner-info p {
+  color: #fff;
+}

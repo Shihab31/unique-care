@@ -1,0 +1,12 @@
+.doctors-container {
+  background-color: #122047;
+  padding: 80px 0;
+}
+.doctors-container h6 {
+  color: #3cacb0;
+}
+.doctors-container h2 {
+  font-size: 70px;
+  color: #fff;
+  font-weight: 900;
+}

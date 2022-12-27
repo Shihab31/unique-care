@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "Katherine Jones",
+    "position": "Founder, General Practitioner",
+    "picture": "https://i.ibb.co/gmCKspX/team-01-home-03.jpg",
+    "des": "Globally myocardinate interactive supply chains with distinctive quality vectors through interoperable services. Completely synthesize principle-centered information"
+  },
+  {
+    "id": 2,
+    "name": "Terence Morisson",
+    "position": "Senior General Practitioner",
+    "picture": "https://i.ibb.co/bXXrHtC/team-02-home-03.jpg",
+    "des": "Globally myocardinate interactive supply chains with distinctive quality vectors through interoperable services. Completely synthesize principle-centered information"
+  },
+  {
+    "id": 3,
+    "name": "Barbara Woods",
+    "position": "Anesthesiologist",
+    "picture": "https://i.ibb.co/F8cCz5v/team-03-home-03.jpg",
+    "des": "Globally myocardinate interactive supply chains with distinctive quality vectors through interoperable services. Completely synthesize principle-centered information"
+  },
+  {
+    "id": 1,
+    "name": "Adrianne Silvers",
+    "position": "General Practitioner",
+    "picture": "https://i.ibb.co/L8pyy9F/team-04-home-03.jpg",
+    "des": "Globally myocardinate interactive supply chains with distinctive quality vectors through interoperable services. Completely synthesize principle-centered information"
+  }
+]

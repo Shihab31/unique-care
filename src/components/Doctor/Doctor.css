@@ -1,0 +1,13 @@
+.doctor-container {
+  margin-top: 20px;
+  color: #fff;
+}
+.doctor-container h3 {
+  margin-top: 20px;
+}
+.doctor-container p {
+}
+.doctor-container img {
+  width: 100%;
+  border-radius: 30px;
+}
