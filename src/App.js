@@ -7,6 +7,9 @@ import "bootstrap/dist/css/bootstrap.min.css";
 import Login from "./components/Login/Login";
 import Services from "./components/Services/Services";
 import ServiceDetails from "./components/ServiceDetails/ServiceDetails";
+import Register from "./components/Register/Register";
+import RequiredAuth from "./components/RequiredAuth/RequiredAuth";
+import NotFound from "./components/NotFound/NotFound";
 
 function App() {
   return (
@@ -19,8 +22,14 @@ function App() {
         <Route path="/services" element={<Services></Services>}></Route>
         <Route
           path="/details/:serviceId"
-          element={<ServiceDetails></ServiceDetails>}
+          element={
+            <RequiredAuth>
+              <ServiceDetails></ServiceDetails>
+            </RequiredAuth>
+          }
         ></Route>
+        <Route path="/register" element={<Register></Register>}></Route>
+        <Route path="*" element={<NotFound></NotFound>}></Route>
       </Routes>
       <Footer></Footer>
     </div>

@@ -1,0 +1,28 @@
+.or-border {
+  display: flex;
+  justify-content: center;
+}
+.or-border hr {
+  color: rgb(127, 127, 127);
+  width: 320px;
+}
+
+.social-button {
+  text-align: center;
+  width: 307px;
+  margin: auto;
+}
+.social-button button {
+  display: block;
+  margin: 10px 0;
+  background-color: #384f81;
+  border: none;
+  padding: 12px 70px;
+  border-radius: 30px;
+  color: #fff;
+}
+.google {
+  background-color: #fff !important;
+  color: #000 !important;
+  border: 1px solid #000 !important;
+}
